@@ -1,0 +1,13 @@
+tipo:DIESEL:8000:200.0
+tipo:EXTRA:14000:100.0
+tipo:GAS:10000:173.0
+tipo:NORMAL:15500:2000.0
+surtidor:Mario:DIESEL:0.0:EXTRA:0.0:GAS:0.0:NORMAL:0.0
+surtidor:Tomas:DIESEL:0.0:EXTRA:0.0:GAS:0.0:NORMAL:0.0
+surtidor:Carlos:DIESEL:0.0:EXTRA:0.0:GAS:0.0:NORMAL:0.0
+surtidor:Carlos:DIESEL:0.0:EXTRA:0.0:GAS:0.0:NORMAL:0.0
+empleado:Pablo:0
+empleado:Tomas:0
+empleado:Juan:0
+empleado:Carlos:0
+empleado:Mario:0
